@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BST-Visualizer</string>
+    <string name="enter_node_value">Enter Node Value:</string>
+    <string name="_0">0</string>
+    <string name="add">Add</string>
+    <string name="del">Del</string>
+    <string name="find">find</string>
+    <string name="reset">Reset</string>
+    <string name="inorder_traversal_tree">Inorder Traversal Tree</string>
+    <string name="tree">Tree</string>
+    <string name="post_order_traversal_tree">Post Order Traversal Tree</string>
+    <string name="pre_order_traversal_tree">Pre Order Traversal Tree</string>
+</resources>
