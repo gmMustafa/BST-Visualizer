@@ -10,4 +10,7 @@
 
 
 ## Screens
-![Main](/screens/main.png) ![Main2](/screens/main2.png) ![Find](/screens/find.png) ![Del](/screens/del.png)
+
+Main Screen                |  Mian Screen With Nodes   | Find Node                 |  Delete Node
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](/screens/main.png)     |  ![](/screens/main2.png)  |![](/screens/find.png)     |  ![](/screens/del.png)
